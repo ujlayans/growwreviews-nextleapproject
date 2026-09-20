@@ -36,8 +36,8 @@ Total reviews scanned: 750, covering 2026-06-28 to 2026-09-19. (first run =E2=
 ation queue for high=E2=80=91priority tickets and set a 4=E2=80=91hour respon=
 se SLA. =20
 - **Withdrawals & Fund Transfers** =E2=80=93 *Finance & Product Team*: Launch=
- a real=E2=80=91time withdrawal status tracker and eliminate the 2% withdrawa=
-l fee. =20
+ a real-time withdrawal status tracker and review whether current withdrawal =
+fees are discouraging users. =20
 - **Order Execution Failures** =E2=80=93 *Trading Engineering Team*: Implemen=
 t a pre=E2=80=91execution price verification step against live market data be=
 fore order placement.

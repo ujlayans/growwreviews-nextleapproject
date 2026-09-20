@@ -20,5 +20,5 @@ Total reviews scanned: 750, covering 2026-06-28 to 2026-09-19. (first run — no
 ## Action Ideas  
 
 - **Customer Support** – *Support Ops Team*: Create a dedicated escalation queue for high‑priority tickets and set a 4‑hour response SLA.  
-- **Withdrawals & Fund Transfers** – *Finance & Product Team*: Launch a real‑time withdrawal status tracker and eliminate the 2% withdrawal fee.  
+- **Withdrawals & Fund Transfers** – *Finance & Product Team*: Launch a real-time withdrawal status tracker and review whether current withdrawal fees are discouraging users.  
 - **Order Execution Failures** – *Trading Engineering Team*: Implement a pre‑execution price verification step against live market data before order placement.
