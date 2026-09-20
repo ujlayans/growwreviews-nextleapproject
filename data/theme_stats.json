@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-09-20",
+  "total_reviews": 750,
+  "unclassified_count": 705,
+  "date_range": {
+    "start": "2026-06-28",
+    "end": "2026-09-19"
+  },
+  "top_themes": [
+    {
+      "theme": "Customer Support",
+      "count": 15,
+      "avg_rating": 1.2,
+      "wow_change": null,
+      "quote": "Very very very bad service they even didn\u2019t replied"
+    },
+    {
+      "theme": "Withdrawals & Fund Transfers",
+      "count": 8,
+      "avg_rating": 1.0,
+      "wow_change": null,
+      "quote": "This app is very slow in withdrawal and also many charges are applied"
+    },
+    {
+      "theme": "Order Execution Failures",
+      "count": 8,
+      "avg_rating": 1.12,
+      "wow_change": null,
+      "quote": "bad experience in groww lag chart price not correct in excute order"
+    }
+  ]
+}

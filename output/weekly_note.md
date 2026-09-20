@@ -1,0 +1,24 @@
+Groww — Weekly Review Pulse  
+
+Total reviews scanned: 750, covering 2026-06-28 to 2026-09-19. (first run — no prior week to compare)  
+
+## Top Themes  
+
+1. **Customer Support** – Count: 15, Avg Rating: 1.2  
+2. **Withdrawals & Fund Transfers** – Count: 8, Avg Rating: 1.0  
+3. **Order Execution Failures** – Count: 8, Avg Rating: 1.12  
+
+### Customer Support  
+> "Very very very bad service they even didn’t replied"
+
+### Withdrawals & Fund Transfers  
+> "This app is very slow in withdrawal and also many charges are applied"
+
+### Order Execution Failures  
+> "bad experience in groww lag chart price not correct in excute order"
+
+## Action Ideas  
+
+- **Customer Support** – *Support Ops Team*: Create a dedicated escalation queue for high‑priority tickets and set a 4‑hour response SLA.  
+- **Withdrawals & Fund Transfers** – *Finance & Product Team*: Launch a real‑time withdrawal status tracker and eliminate the 2% withdrawal fee.  
+- **Order Execution Failures** – *Trading Engineering Team*: Implement a pre‑execution price verification step against live market data before order placement.
